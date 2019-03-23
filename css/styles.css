@@ -165,3 +165,8 @@ background: rgb(131, 128, 128); }
   }
   /* content END */
 
+
+  .typed-cursor {
+    font-family: "Roboto Mono";
+    margin: 0;
+  }
